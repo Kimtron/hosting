@@ -12,7 +12,7 @@ I would love to speak to potential neocities and self hosted websites on free se
 
 Fork this repository and make the modifications to the readme, I should get a notification and I will review the request.
 
-#Form
+# Form
 
 Contact me via direct method with the following details:
 
