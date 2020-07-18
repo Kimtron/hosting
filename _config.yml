@@ -1,3 +1,1 @@
 theme: jekyll-theme-hacker
-- name: GitHub Script
-  uses: actions/github-script@v2.0.0
