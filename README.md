@@ -33,8 +33,7 @@ I will get a notification and I will review the request.
 
 Contact me via direct method with the following details:
 
-Name:
-Website:
-Email:
- 
-Tell me a bit about yourself!
+# Name:
+# Website:
+# Email:
+# Tell me a bit about yourself!
