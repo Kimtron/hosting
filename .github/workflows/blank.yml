@@ -32,4 +32,4 @@ jobs:
         echo Add other actions to build,
         echo test, and deploy your project.
         
-        ![CI](https://github.com/Kimtron/hosting/workflows/CI/badge.svg?branch=master&event=push)
+    
