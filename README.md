@@ -16,10 +16,11 @@ Contact me to find out what domains are available!
 
 Happy to discuss any variations of those basic clauses, this is to encorporate
 many types of blog or personal website that I am willing to host.
+
 As long as your website meets basic common-sense criteria
-no illegal, harmful content;
+EG. no illegal, harmful content;
 content that violates any license, term or agreement originally
-created by someone else.
+created by someone else;
 
 I am happy to negotiate any of my terms.
 
