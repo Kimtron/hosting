@@ -1,4 +1,4 @@
-### Hosting
+# Hosting
 
 Are you looking for a host?
 
